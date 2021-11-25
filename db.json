@@ -1,0 +1,64 @@
+{
+  "konyvek": [
+    {
+      "id": "1",
+      "szerzo": "Rejtő Jenő",
+      "cim": "Piszkos Fred közbelép",
+      "ar": 1230,
+      "tipus": "regény"
+    },
+    {
+      "id": "2",
+      "szerzo": "Lackfi János",
+      "cim": "Apám kakasa",
+      "ar": 3420,
+      "tipus": "regény"
+    },
+    {
+      "id": "3",
+      "szerzo": "Robert",
+      "cim": "Malevil",
+      "ar": 1200,
+      "tipus": "novella"
+    },
+    {
+      "szerzo": "Keresztesi Jozsef",
+      "cim": "Hegyi zsupsz",
+      "ar": "2230",
+      "tipus": "vers",
+      "id": "DOtwjnx"
+    },
+    {
+      "szerzo": "Keresztesi Jozsef",
+      "cim": "Hegyi zsupsz",
+      "ar": "2230",
+      "tipus": "vers",
+      "id": "EjBeSET"
+    },
+    {
+      "szerzo": "Keresztesi Jozsef",
+      "cim": "Hegyi zsupsz",
+      "ar": "2230",
+      "tipus": "vers",
+      "id": "f0H7zGC"
+    }
+    
+  ],
+  "szerző": [
+    {
+      "id": "1",
+      "nev": "Rejtő Jenő",
+      "nemzetise": "magyar"
+    },
+    {
+      "id": "2",
+      "nev": "Lackfi János",
+      "nemzetise": "magyar"
+    },
+    {
+      "id": "3",
+      "nev": "Robert Merle",
+      "nemzetise": "Francia"
+    }
+  ]
+}
